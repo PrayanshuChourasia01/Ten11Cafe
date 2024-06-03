@@ -1,0 +1,5 @@
+1. tail wind css by portcss 
+2. node.js 
+3. vite 
+4 To run this project the command is : i. go in the terminal and write the following command 
+" npm run dev "
